@@ -11,7 +11,7 @@ this tool is a work in progress, it's definitely not in a usable state right now
 - being able to concatenate files to print to stdout
 
 # Stuff to add
-TLDR: basically (almost) all the cat's functionality that I'm currently missing \
+TLDR: basically (almost) all the cat's functionality that I'm currently missing
 - A makefile
 - Command line parameters like these \
 	-n to number all the output lines \
