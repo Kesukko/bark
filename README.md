@@ -13,9 +13,9 @@ this tool is a work in progress, it's definitely not in a usable state right now
 # Stuff to add
 - TLDR: basically (almost) all the cat's functionality that I'm currently missing
 - A makefile
-- Command line parameters like these
+- Command line parameters like these \
 	-n to number all the output lines \
   	-t to show tab characters as ^I \
-  	-e to display $ at the end of each line
-  	--help to display a help message
+  	-e to display $ at the end of each line \
+  	--help to display a help message \
   	-i to display a file's info like its name and size in bytes
