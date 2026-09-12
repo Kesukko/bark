@@ -19,4 +19,4 @@ TLDR: basically (almost) all the cat's functionality that I'm currently missing
 - A makefile
 - Command line parameters like these \
   	-t to show tab characters as ^I \
-  	--help to display a help message \
+  	--help to display a help message 
